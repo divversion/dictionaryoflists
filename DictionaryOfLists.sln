@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOfLists", "DictionaryOfLists\DictionaryOfLists.csproj", "{99116BD7-59EE-4EE6-BD9E-821695A7F123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOfLists.Tests", "DictionaryOfLists.Tests\DictionaryOfLists.Tests.csproj", "{AF4D5D06-1025-4725-ACC2-5BD4BC9181A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99116BD7-59EE-4EE6-BD9E-821695A7F123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99116BD7-59EE-4EE6-BD9E-821695A7F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99116BD7-59EE-4EE6-BD9E-821695A7F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99116BD7-59EE-4EE6-BD9E-821695A7F123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4D5D06-1025-4725-ACC2-5BD4BC9181A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4D5D06-1025-4725-ACC2-5BD4BC9181A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4D5D06-1025-4725-ACC2-5BD4BC9181A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4D5D06-1025-4725-ACC2-5BD4BC9181A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
